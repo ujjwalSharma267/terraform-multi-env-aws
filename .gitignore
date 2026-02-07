@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Keys
+*.pem
+*.pub
+terra-key
+terra-key.pub
+
+# Variables
+*.tfvars
+
+# OS
+.DS_Store
